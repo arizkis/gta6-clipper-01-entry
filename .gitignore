@@ -1,0 +1,6 @@
+source/
+clip/
+out/
+*.mp4
+*.wav
+*.part
