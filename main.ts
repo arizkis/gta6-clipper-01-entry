@@ -23,3 +23,6 @@ try {
   console.error(`VIDEO.json could not be copied from ${BOT_DIR}: ${(err as Error).message}`);
   process.exit(1);
 }
+
+// This entry hands in the address of the clip rendered in this session; main.ts carries VIDEO.json to the output dir byte for byte.
+console.log(`VIDEO.json copied to ${join(OUTPUT_DIR, 'VIDEO.json')}`);
