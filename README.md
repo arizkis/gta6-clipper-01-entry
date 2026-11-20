@@ -12,4 +12,4 @@ The source was downloaded with yt-dlp. I extracted mono 16 kHz audio, computed R
 
 VIDEO.json still holds the starter placeholder and gets the real URL in a follow-up turn after the person uploads the clip.
 
-Final clip specs: 25.000 seconds, 720x1280, 3,630,737 bytes, H.264 video and 44.1 kHz stereo AAC audio.
+Final clip specs: 25.000 seconds, 720x1280, 3,675,639 bytes, H.264 video and 44.1 kHz stereo AAC audio.
